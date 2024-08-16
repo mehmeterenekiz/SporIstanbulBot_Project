@@ -6,5 +6,5 @@ Bu Projede daha öncesinden edinilen görüntü işleme ile ilgi bilgi birkimi w
 
 Görselden okunan kod Selenium kütüphanesindeki fonksiyonlar yardımıyla doğrulama kodu alanına yazdırıldı, ilgili rezervasyon işlemleri yapıldı ve ödeme sisteminde kart bilgileri girilerek ödeme aşaması tamamlandı.
 
-İlerleyen zamanlarda daha otamatik bir şekilde çalışabilmek adına banka tarafından cep telefonuna gönderilen doğrulama kodunu botumuza aktarbilmek için bir api geliştirilecektir.
+İlerleyen zamanlarda daha otamatik bir şekilde çalışabilmek adına banka tarafından cep telefonuna gönderilen doğrulama kodunu botumuza aktarabilmek için bir api geliştirilecektir.
 
